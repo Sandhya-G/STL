@@ -10,7 +10,10 @@
 [unordered map](http://www.cplusplus.com/reference/unordered_map/unordered_map/) \
 [unordered set](http://www.cplusplus.com/reference/unordered_set/unordered_set/)
 
-#Videos
+# Videos
 
 (https://www.youtube.com/watch?v=Vc1RyqWFbiA&list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb)
 (https://www.youtube.com/watch?v=g-1Cn3ccwXY&list=PLfBJlB6T2eOvyt21CIX_PMmhOgWHiFVab)
+
+# Articles
+(https://community.topcoder.com/tc?d1=features&d2=082803&module=Static)
